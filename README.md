@@ -11,7 +11,7 @@
     This is one of my projects,  a simple application that checks if a word is a palindrome or not.
     <br />
     <br />
-    <a href="">See the application online</a>
+    <a href="palindrome-word-94ghp7l4m-giovannis-projects-3e974df6.vercel.app">See the application online</a>
     <br />
     <br />
     <a href="https://github.com/GiovanniBombardieri/Palindrome-Word">View Demo</a>
