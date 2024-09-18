@@ -2,7 +2,7 @@
 <br />
 <div align="center" id="start">
   <a href="https://github.com/GiovanniBombardieri/Palindrome-Word">
-    <img src="assets/img/favicon.png" alt="Logo" width="100" height="100">
+    <img src="assets/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Palindrome Application</h3>
@@ -25,14 +25,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="1470" alt="Counter" src="https://github.com/user-attachments/assets/d3df6a1b-71e0-4490-90bf-8358724b1cc4" align="center">
+<img width="928" alt="Screenshot 2024-09-18 at 09 32 15" src="https://github.com/user-attachments/assets/79e35928-739b-4a2d-ab8c-e00e925b3f04" align="center">
 <br />
 <br />
-<p align="center">It is a counter for integer numbers create with the DOM Manipulation of Javascript. <br />
-    When you open it, it display the default value of 0 and let you increase or decrease the number thanks to the buttons plus and minus. <br />
-    There is also an option for change the value of the addend, so you can increase or decrease with all number.
-    Also you can split the counter half and use them separetely.</p>
-
 <p align="right">(<a href="#start">back to top</a>)</p>
 
 <!-- BUILT WITH -->
@@ -51,7 +46,7 @@
 
 Giovanni - [@linkedin](https://www.linkedin.com/in/giovanni-bombardieri-13ba7021b/) - g.bombardieri06@gmail.com
 
-Project Link: [https://github.com/GiovanniBombardieri/Javascript](https://github.com/GiovanniBombardieri/Javascript)
+Project Link: [https://github.com/GiovanniBombardieri/Palindrome-Word](https://github.com/GiovanniBombardieri/Palindrome-Word)
 
 <p align="right">(<a href="#start">back to top</a>)</p>
 
