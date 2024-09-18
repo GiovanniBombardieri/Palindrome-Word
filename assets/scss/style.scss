@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(3, 3, 68);
+  color: rgb(210, 205, 205);
+}
+
+.contenitor {
+  height: 100vh;
+
+  h1 {
+    color: rgb(255, 255, 255);
+    font-size: 3.5rem;
+  }
+
+  .main {
+    height: 30vh;
+
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 8px 8px rgba($color: (#8b0697), $alpha: 0.7);
+
+    input {
+      border-bottom: 3px solid #8b0697;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      background-color: #fff;
+      color: rgb(0, 0, 0);
+    }
+
+    #check-btn {
+      min-width: fit-content;
+      height: 4vh;
+      border-radius: 10px;
+      background-color: #8b0697;
+      border: none;
+      color: #fff;
+    }
+
+    #check-btn:active {
+      background-color: #5c0364;
+    }
+
+    label {
+      background-color: unset;
+      color: #000;
+      font-size: 1.2rem;
+    }
+
+    #result {
+      background-color: rgb(255, 255, 255);
+      color: rgb(0, 0, 0);
+      font-size: 1.2rem;
+    }
+  }
+
+  .dictionary {
+    font-size: 1.2rem;
+  }
+}
